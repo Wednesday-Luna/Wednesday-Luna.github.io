@@ -19,6 +19,7 @@ p {
 .essay {
     background: #F8FAFC;
     margin-top: 50px;
+    padding: 20px;
 }
 
 .small {
@@ -50,6 +51,8 @@ p {
 .passage {
     display: flex;
     flex-direction: column;
+    max-width: 800px;
+    margin: 0 auto;
 }
 
 .one {
