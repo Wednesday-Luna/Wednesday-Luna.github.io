@@ -1,0 +1,73 @@
+body {
+    background: #FFFF;
+}
+
+.main {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 0;
+}
+
+p {
+    font-family: 'Inter';
+    font-weight: 400;
+    font-size: 16px;
+}
+
+.essay {
+    background: #F8FAFC;
+    margin-top: 50px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.small {
+    font-family: 'Inter';
+    font-weight: 400;
+    font-size: 16px;
+}
+
+.hr1 {
+    border: none;
+    height: 1px;
+    background-color: #D2D5DA;
+}
+
+.title {
+    margin-top: 50px;
+    margin-bottom: 10px;
+    font-family: 'Inter';
+    font-weight: 600;
+    font-size: 36px;
+}
+
+.heading {
+    font-family: 'Inter';
+    font-weight: 600;
+    font-size: 24px;
+}
+
+.passage {
+    display: inline;
+}
+
+.one {
+    padding: 5px;
+}
+
+a {
+    text-decoration: none;
+    color: #4E80EE;
+}
+
+.second {
+    padding: 5px;
+}
+
+.over {
+    margin-bottom: 50px;
+}
