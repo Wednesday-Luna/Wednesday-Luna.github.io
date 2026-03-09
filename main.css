@@ -19,10 +19,6 @@ p {
 .essay {
     background: #F8FAFC;
     margin-top: 50px;
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
 }
 
 .small {
@@ -52,7 +48,8 @@ p {
 }
 
 .passage {
-    display: inline;
+    display: flex;
+    flex-direction: column;
 }
 
 .one {
